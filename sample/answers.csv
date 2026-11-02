@@ -1,0 +1,19 @@
+date,engine,id,answer,citations
+2026-11-02,ChatGPT,q1,"그린보틀 텀블러는 공식 안내 기준 보온 6시간, 보냉 12시간입니다. 이중 진공 구조라 출근용으로 무난합니다.",https://greenbottle.example.com/faq
+2026-11-02,ChatGPT,q2,"보온 성능은 에코컵이 조금 더 길고, 무게는 그린보틀이 더 가볍습니다. 가볍게 들고 다닐 용도라면 그린보틀이 맞습니다.",https://review.example.org/tumbler-compare|https://greenbottle.example.com/product/1
+2026-11-02,ChatGPT,q3,"가벼운 텀블러로는 블루탭 슬림, 에코컵 라이트가 자주 추천됩니다. 300g 이하 제품을 고르면 출근길에 부담이 적습니다.",https://blog.example.net/light-tumbler
+2026-11-02,ChatGPT,q4,"식기세척기 사용이 가능한 브랜드로는 에코컵, 블루탭이 있습니다. 제품마다 뚜껑은 손세척을 권장하니 안내를 확인하세요.",
+2026-11-02,ChatGPT,q5,"3만원대 선물용으로는 그린보틀 기프트 세트와 에코컵 클래식이 인기입니다. 각인 서비스가 있는 그린보틀이 선물용으로 많이 언급됩니다.",https://greenbottle.example.com/gift
+2026-11-02,ChatGPT,q6,"빨대 텀블러는 분리 세척이 쉬운 구조인지가 중요합니다. 블루탭 스트로 모델은 빨대가 분리돼 세척이 편합니다.",https://review.example.org/straw
+2026-11-02,Perplexity,q1,"그린보틀 텀블러의 보온 시간은 약 6시간입니다.",https://greenbottle.example.com/faq|https://shop.example.kr/item/22
+2026-11-02,Perplexity,q2,"두 제품 모두 이중 진공 구조입니다. 가격은 에코컵이 조금 높고, 리뷰 평점은 비슷합니다.",https://review.example.org/tumbler-compare
+2026-11-02,Perplexity,q3,"출근용 경량 텀블러로는 에코컵 라이트, 블루탭 슬림, 그린보틀 미니가 있습니다.",https://blog.example.net/light-tumbler|https://greenbottle.example.com/product/3
+2026-11-02,Perplexity,q4,"에코컵은 전 제품 식기세척기 사용이 가능합니다.",https://ecocup.example.com/care
+2026-11-02,Perplexity,q5,"3만원대 텀블러 선물로는 에코컵 클래식이 무난합니다.",https://ecocup.example.com/gift
+2026-11-02,Perplexity,q6,"빨대가 분리되는 블루탭 스트로와 에코컵 스트로가 세척이 쉽습니다.",https://bluetap.example.com/straw
+2026-11-02,Gemini,q1,"그린보틀은 보온 6시간, 보냉 12시간을 안내하고 있습니다.",
+2026-11-02,Gemini,q2,"용도에 따라 다릅니다. 장시간 보온이 필요하면 에코컵, 휴대성이 중요하면 그린보틀이 낫습니다.",
+2026-11-02,Gemini,q3,"블루탭 슬림이 가볍고 슬림해서 출근용으로 많이 쓰입니다.",
+2026-11-02,Gemini,q4,"식기세척기 사용 가능 여부는 브랜드보다 모델별로 다릅니다. 에코컵 일부 모델은 가능합니다.",
+2026-11-02,Gemini,q5,"선물용으로는 각인이 가능한 그린보틀이나 에코컵 기프트 세트를 고려해보세요.",
+2026-11-02,Gemini,q6,"블루탭 스트로 모델이 세척이 쉬운 편입니다.",
