@@ -1,0 +1,9 @@
+{
+  "brand": "그린보틀",
+  "brand_aliases": ["그린보틀", "Green Bottle", "greenbottle"],
+  "brand_domains": ["greenbottle.example.com"],
+  "competitors": {
+    "에코컵": ["에코컵", "EcoCup"],
+    "블루탭": ["블루탭", "BlueTap"]
+  }
+}
